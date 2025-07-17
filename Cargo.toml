@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "mcp_server",
+    "ai_agent_client"
+]
+resolver = "1" 
